@@ -1,0 +1,1 @@
+import{_ as e}from"./q-DoLwBGTH.js";import{c as o,q as a}from"./q-CP30mPKv.js";const s=o(a(()=>e(()=>import("./q-DDR02UYF.js").then(t=>t.f),[]),"s_B0lqk5IDDy4")),_={title:"Project",meta:[{name:"Website",content:"Real Estate"}]};export{s as default,_ as head};
